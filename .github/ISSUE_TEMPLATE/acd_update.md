@@ -1,7 +1,7 @@
 ---
 name: ACD 更新
 about: 每人、每项目、每次更新创建一条；记录 Achievement、Concern 和 Todo
-title: "[ACD更新] "
+title: "[ACD更新] 项目名｜YYYY-MM-DD｜负责人"
 ---
 
 ## 项目信息
